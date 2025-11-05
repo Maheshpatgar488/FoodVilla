@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# parcel cache
+.parcel-cache/
+
+# build output
+dist/
+
+# system files
+.DS_Store
+.vscode/
